@@ -1,0 +1,27 @@
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ux {
+  width: 600px;
+}
+
+.img {
+  width: 300px;
+}
+
+.copy {
+  font-size: 14px;
+}
+
+.learn {
+  color: #0bd0fe;
+}
+
+.links {
+  background-color: #eaeaea;
+}

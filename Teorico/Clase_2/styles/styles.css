@@ -1,0 +1,52 @@
+body {
+  color: rgb(0, 8, 0);
+  background-color: rgb(200, 130, 170);
+}
+/* Titulos */
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: indigo;
+  text-decoration: underline;
+  border: 8px solid;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  background-color: grey;
+
+  line-height: 14.5rem;
+  text-align: center;
+}
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: indigo;
+}
+
+/* Listas */
+
+ul {
+  color: aliceblue;
+  font-style: oblique;
+}
+ol {
+  color: aliceblue;
+  font-style: oblique;
+}
+
+/* Parrafos  */
+
+p {
+  color: antiquewhite;
+  font-style: italic;
+}
+#primerp {
+  text-align: center;
+  font-size: 1.3rem;
+  border: 2px dotted;
+  border-radius: 500px;
+}
+
+.parrafos:hover {
+  font-size: 1.2rem;
+}

@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e7f1f9;
+}
+
+.border {
+  border: 2px solid;
+  border-color: #674ea7;
+  padding: 20px;
+}
+
+#p1 {
+  color: #ff6600;
+}
+
+#p2 {
+  color: #79a84f;
+}
+
+#p3 {
+  color: #1155cc;
+}

@@ -1,0 +1,61 @@
+/* CSS */
+
+* {
+  box-sizing: border-box;
+}
+
+/* BODY */
+
+body {
+  margin: 0;
+  background-color: #bbb;
+}
+
+/* DIV */
+
+.outer-box {
+  /* SIZZING & MARGIN */
+  width: 300px;
+  height: 200px;
+
+  /* POSITION */
+
+  /* DISPLAY */
+
+  /* OTHERS */
+
+  background-color: #777;
+}
+
+.inner-box {
+  /* SIZZING & MARGIN */
+  width: 200px;
+  height: 100px;
+
+  /* POSITION */
+  position: relative;
+  left: 20px;
+  top: 30px;
+
+  /* DISPLAY */
+
+  /* OTHERS */
+  background-color: rgb(168, 240, 216);
+}
+
+.box-tres {
+  width: 80px;
+  height: 40px;
+  background-color: blue;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+
+.box-cuatro {
+  width: 40px;
+  background-color: black;
+  height: 40px;
+  position: relative;
+  left: 50px;
+}

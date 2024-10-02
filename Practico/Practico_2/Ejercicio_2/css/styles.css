@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #607d8b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#lapiz {
+  width: 25px;
+}
+
+.box {
+  border: 10px solid #ff6600;
+  width: 500px;
+  background-color: white;
+}
+
+.espaciado {
+  margin: 20px;
+}
