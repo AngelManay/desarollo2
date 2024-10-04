@@ -1,0 +1,103 @@
+body {
+  background-color: #283149;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.drumkit {
+  width: 20%;
+}
+
+.box2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.img1 {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 30px;
+  border: solid 6px black;
+}
+
+.keyw {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keya {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keys {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keyd {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keyj {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keyk {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
+
+.keyl {
+  position: relative;
+  text-align: center;
+  left: 30%;
+  width: 40px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #004d40;
+  border-radius: 10px;
+}
