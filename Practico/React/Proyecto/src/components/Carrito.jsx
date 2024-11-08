@@ -1,9 +1,22 @@
-import ProductoCarrito from "./ProductoCarrito";
+import ProductosCarrito from "./ProductosCarrito";
 function Carrito({ productosCarrito, setProductosCarrito }) {
   return (
     <>
-      <h2>Carrito</h2>
-      {productosCarrito}
+      <h4>Carrito</h4>
+
+      <div className="card card-body">
+        {productosCarrito.map(function (producto) {
+          return (
+            <ProductosCarrito
+              producto={producto}
+              productosCarrito={productosCarrito}
+              setProductosCarrito={setProductosCarrito}
+            />
+          );
+        })}
+      </div>
     </>
   );
 }
+
+export default Carrito;
